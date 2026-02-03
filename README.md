@@ -132,7 +132,7 @@ These matrices are passed to the shader each frame.
 
 ---
 ## 📷 GUI Preview
-
+![GUI Screenshot](application_view.png)
 
 
 
